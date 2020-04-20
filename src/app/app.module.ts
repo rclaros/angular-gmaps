@@ -13,7 +13,7 @@ import { AgmCoreModule } from '@agm/core';
     BrowserModule,
     AppRoutingModule,
     AgmCoreModule.forRoot({
-      apiKey: "AIzaSyCyV3r4ZjqYiaI8TJQELhREsb3c8nlWIr4",
+      apiKey: "XXXXXXXXXX",
       libraries: ["places"],
     })
   ],
